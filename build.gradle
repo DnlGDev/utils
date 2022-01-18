@@ -1,0 +1,16 @@
+plugins {
+	id 'java'
+}
+
+group = 'com.dnlgdev'
+version = '1.0.2'
+sourceCompatibility = '11'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+
+}
+
